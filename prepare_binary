@@ -1,0 +1,2 @@
+DEB_BUILD_OPTIONS="terse nocheck noudeb"
+DEB_BUILD_PROFILES="nocheck noudeb"
